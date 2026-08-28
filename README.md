@@ -11,3 +11,6 @@ I believe that practical learning is just as important as studying theory. There
 My goal is to continue improving my programming, problem-solving, and software development skills and to build useful projects that demonstrate what I have learned. I want to keep learning new technologies and become a capable computer science professional in the future.
 
 Overall, my journey as a Computer Science Engineering student is still beginning, but every program, project, and new concept I learn is helping me move one step closer to my goals.
+
+
+I am currently learning Python.
