@@ -16,3 +16,5 @@ Overall, my journey as a Computer Science Engineering student is still beginning
 I am currently learning Python.
 
 Interested in web development and software development.
+
+Goal: Build useful software projects and contribute to open source.
